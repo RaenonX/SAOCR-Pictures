@@ -4,6 +4,8 @@
 - [起始圖](https://github.com/RaenonX/SAOCR-Pictures/tree/Startup-Pictures/supic)     
 - [武器圖](https://github.com/RaenonX/SAOCR-Pictures/tree/Startup-Pictures/weapon)    
 - [角色圖](https://github.com/RaenonX/SAOCR-Pictures/tree/Startup-Pictures/chara)      
+- [防具圖](https://github.com/RaenonX/SAOCR-Pictures/tree/Startup-Pictures/armor)
+- [抽卡圖](https://github.com/RaenonX/SAOCR-Pictures/tree/Startup-Pictures/scout)
 
 --------------------------------------------------------------------
 [查看更新請點此](https://github.com/RaenonX/SAOCR-Pictures/commits/Startup-Pictures)
