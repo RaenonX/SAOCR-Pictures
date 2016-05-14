@@ -13,6 +13,6 @@
 >第八碼 = 狀態  
 >`0=未覺醒/原始、3=已覺醒`  
 
->[角色名稱、ID對照表](https://sites.google.com/site/saocrpictures/home/pre-released/charas/idtable)
+>[角色名稱、ID對照表](http://htmlpreview.github.io/?https://github.com/RaenonX/SAOCR-Pictures/blob/Startup-Pictures/chara/Chara%20ID%20Table.html)
 
 [查看更新請點此](https://github.com/RaenonX/SAOCR-Pictures/commits/Startup-Pictures)
